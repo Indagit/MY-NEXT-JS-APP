@@ -8,6 +8,7 @@ function page() {
     </div>
     <form name="contact" netlify>
       <input type="text" style={{color : 'green'}}></input>
+      <button type="submit">Send</button>
     </form>
     </>
   )
