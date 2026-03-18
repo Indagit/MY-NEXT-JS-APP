@@ -11,7 +11,7 @@ export default function Home() {
       <h1>Hello, world</h1>
     </div>
     <Link href="/About_Pages"> 
-     <button style={{ color: 'red'}}> Click ME </button>
+     <button style={{ color: 'red'}}> Go to About Page </button>
     </Link>
     </>
   );
