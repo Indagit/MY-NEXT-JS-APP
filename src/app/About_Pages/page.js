@@ -6,7 +6,7 @@ function page() {
     <div>
       <h1>This is the About Page</h1>
     </div>
-    <form name="contact" netlify>
+    <form name="contact" data-netlify="true">
       <input type="text" style={{color : 'green'}}></input>
       <button type="submit">Send</button>
     </form>
